@@ -1,2 +1,2 @@
-# c-language-programs
-Just another repo to store c-programs
+# C-programs
+This repository is a collection of C-Programs for learning purposes
